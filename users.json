@@ -1,0 +1,29 @@
+{
+  "Users": [
+    {
+      "id": "01233213”,
+      "name": "Ben Mark”,
+      "country": "US",
+      "image": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"
+    },
+    {
+      "id": "11341323”,
+      "name": "Susan Angle”,
+      "country": "France",
+      "image": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"
+    },
+    {
+      "id": "23412311",
+      "name": "Robert Wills”,
+      "country": "Germany",
+      "image": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"
+    },
+    {
+      "id": "312312313”,
+      "name": "Mary Maglin”,
+      "country": "India",
+      "image": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"
+    }
+  ]
+}
+
